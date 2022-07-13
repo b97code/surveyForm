@@ -8,7 +8,7 @@ For this project, I will build a survey form to collect data form my users.
 Building an app that is functionally similar to (https://survey-form.freecodecamp.rocks/)
 
 
-### User Stories:
+## User Stories:
 1. You should have a page title in an h1 element with an id of title
 2. You should have a short explanation in a p element with an id of description
 3. You should have a form element with an id of survey-form
@@ -26,7 +26,7 @@ Building an app that is functionally similar to (https://survey-form.freecodecam
 15. Inside the form element, you are presented with a textarea for additional comments
 16. Inside the form element, you are presented with a button with id of submit to submit all the inputs
 
-### Tests 
+## Tests 
 - [ ] You should have an h1 element with an id of title.
 - [ ] Your #title should not be empty.
 - [ ] You should have a p element with an id of description.
