@@ -1,14 +1,13 @@
-# Project
-Survey Form @freeCodeCamp
+# Survey Form
 
-# From 
-You can find the stages and requirements of this project at [freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+This is one of the required projects to earn my certification
 
-# Example
-An example of this project can be found at [FFC: Tribute](https://codepen.io/freeCodeCamp/full/VPaoNP)
+For this project, I will build a survey form to collect data form my users.
 
-# Codepen
-My project can also be found [codepen](https://codepen.io/b97code/pen/zYOdLyZ)
 
-# Q/A
-For any questions or feedback please do not hesitate to get in touch.
+### Links  
+Project Reference [Survey Form](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
+CodePen Project | [FFC: Tribute](https://codepen.io/freeCodeCamp/full/VPaoNP)
+
+
